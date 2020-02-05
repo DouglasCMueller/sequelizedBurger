@@ -1,9 +1,9 @@
 ### Schema
 
-CREATE DATABASE burgers_db;
-USE burgers_db;
+CREATE DATABASE burgersSequelized_db;
+USE burgersSequelized_db;
 
-CREATE TABLE burgers
+CREATE TABLE sequelizedBurgers
 (
 	id int NOT NULL AUTO_INCREMENT,
 	burger_name varchar(255) NOT NULL,
