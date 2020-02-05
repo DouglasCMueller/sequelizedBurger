@@ -1,0 +1,54 @@
+body{
+    background-color: beige;
+}
+#header{
+    color: brown;
+    font-weight: Bolder;
+    font-size: 200%;
+    text-align: center;
+    margin-left: -3%;
+}
+#hamburgerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: beige;
+}
+#example{
+    color:blue;
+}
+#burgerBox{
+    background-color: beige;
+}
+#submitBox{
+    background-color: brown;
+}
+#submitButton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    background-color: green;
+    border:none;
+}
+#userInputBurger{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#burgerSubmitInfo{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+
+}
+.burgerTitles{
+    color: brown;
+    font-weight: bolder;
+    font-size: 150%;
+}
+.hamburgerImage{
+    background-color: white;
+}
