@@ -20,7 +20,7 @@
 
         {{#each burgers}}
         {{#unless devoured}}
-        <div id="burgersToBeDevoured" <span><strong>{{this.id}} - {{this.burger_name}}</strong></span>
+        <div id="burgersToBeDevoured"> <span><strong>{{this.id}} - {{this.burger_name}}</strong></span>
           <button class="devourButton" data-id="{{id}}" data-newDevoured="{{devoured}}">Devour it!</button>
         </div>
         <br>

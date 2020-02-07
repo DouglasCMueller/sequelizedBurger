@@ -1,7 +1,7 @@
-# Eat Da Burger! 🍔
-Node Express Handlebars
+# Eat Da Burger! 🍔 Sequelized
+Node Express Handlebars Sequelize MySQL2
 
-A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Uses Node and MySQL to query and route data in your app, and Handlebars to generate HTML.
+A burger logger with Sequelize, MySQL, Node, Express, Handlebars. Uses Node and MySQL with Sequelize to query and route data in your app, and Handlebars to generate HTML.
 
 ####How it works:
 
