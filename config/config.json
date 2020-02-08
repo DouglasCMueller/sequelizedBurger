@@ -19,7 +19,7 @@
     "username": "b3d51f9ace395d",
     "password": "5a497c61",
     "database": "heroku_5e47384574ad3ce",
-    "host": "us-cdbr-iron-east-04.cleardb",
+    "host": "us-cdbr-iron-east-04.cleardb.net",
     "port": 3306,
     "dialect": "mysql"
   }
